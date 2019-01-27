@@ -1,0 +1,8 @@
+1. export: inline, minimal
+2. remove <def>,<title>
+https://www.mapplic.com/mall-map/
+
+listbox
+https://www.cssscript.com/demo/pretty-select-box-replacemenet-pure-javascript-tastyselect/
+https://www.jqueryscript.net/form/Select-Boxes-Replacement-Plugin-Select2.html
+

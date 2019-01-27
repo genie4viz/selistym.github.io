@@ -1,0 +1,151 @@
+*, ::before, ::after{
+  box-sizing: border-box;
+}
+
+html, body {
+  position: relative;
+  width: 100%;
+  height: 100%;
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 12px;  
+}
+.container-fluid {
+  width: 100%;
+  height: 100%;
+}
+.map-container {
+  width: 100%;
+  height: 100%;
+}
+/*-----------d3-tip-------------*/
+.d3-tip {
+  line-height: 1;
+  padding: 6px;
+  background: rgba(0, 0, 0, 0.8);
+  color: #fff;
+  border-radius: 4px;
+  font-size: 12px;
+}
+
+/* Creates a small triangle extender for the tooltip */
+
+.d3-tip:after {
+  box-sizing: border-box;
+  display: inline;
+  font-size: 10px;
+  width: 100%;
+  line-height: 1;
+  color: rgba(0, 0, 0, 0.8);
+  content: "\25BC";
+  position: absolute;
+  text-align: center;
+}
+
+/* Style northward tooltips specifically */
+
+.d3-tip.n:after {
+  margin: -2px 0 0 0;
+  top: 100%;
+  left: 0;
+}
+/*zoom buttons*/
+.zoom-home {
+  position: fixed;
+  left:4px;
+  bottom: 64px;
+  box-shadow: 2px 2px 5px 0 rgba(0,0,0,.16), 0 2px 10px 0 rgba(0,0,0,.12);      
+  color: white;
+  border-radius: 5px;
+  background: #666;  
+  font-size: 18px;
+  color: white;  
+  cursor: pointer;
+  display: flex;
+  align-items: center;
+  padding: 4px 4px 4px 4px;
+}
+.zoom-home:hover{
+  background: #333;
+}
+
+.zoom-in {
+  position: fixed;
+  left:4px;
+  bottom: 34px;
+  box-shadow: 2px 2px 5px 0 rgba(0,0,0,.16), 0 2px 10px 0 rgba(0,0,0,.12);      
+  color: white;
+  border-radius: 5px;
+  background: #666;  
+  font-size: 18px;
+  color: white;  
+  cursor: pointer;
+  display: flex;
+  align-items: center;
+  padding: 4px 5px 4px 5px;
+}
+.zoom-in:hover{
+  background: #333;
+}
+
+.zoom-out {
+  position: fixed;
+  left:4px;
+  bottom: 4px;
+  box-shadow: 2px 2px 5px 0 rgba(0,0,0,.16), 0 2px 10px 0 rgba(0,0,0,.12);      
+  color: white;
+  border-radius: 5px;
+  background: #666;  
+  font-size: 18px;
+  color: white;  
+  cursor: pointer;
+  display: flex;
+  align-items: center;
+  padding: 4px 5px 4px 5px;
+}
+.zoom-out:hover{
+  background: #333;
+}
+
+
+/* select pane for building */
+.building-search-container {
+  width: 100%;
+  height: 100%;
+}
+.building-search-bar {      
+  height: auto;
+}
+.search-text {
+  height: 40px;
+  font-size: 14px;
+}
+.building-selector-container {      
+  width: 100%;/* width: auto*/
+  height: calc(100% - 48px);  
+  box-shadow: 2px 2px 5px 0 rgba(0,0,0,.16), 0 2px 10px 0 rgba(0,0,0,.12);      
+}
+.list-group-item {
+  margin-top: -1px;
+}
+.floor-selector-container {
+  position: fixed;
+  left: 4px;
+  top: 4px;
+  width: auto;/* width: auto*/  
+  height: auto;
+  z-index: 10;
+}
+/* floor-button */
+.btn-focus {
+  width:130px;
+  font-size: 12px;
+  font-weight: bold;
+}
+
+/* building status show*/
+/* .normal-building {
+  
+}
+.select-building {  
+  border: 2px solid #fff;
+} */

@@ -1,0 +1,463 @@
+[
+    {
+        "layer_name": "Layer_41",
+        "display_name": "ESCALATOR_1",
+        "image": ""
+    },
+    {
+        "layer_name": "Layer_42",
+        "display_name": "ESCALATOR_2",
+        "image": ""
+    },
+    {
+        "layer_name": "Layer_40",
+        "display_name": "ESCALATOR_3",
+        "image": ""
+    },
+    {
+        "layer_name": "Layer_39",
+        "display_name": "ESCALATOR_4",
+        "image": ""
+    },
+    {
+        "layer_name": "Layer_38",
+        "display_name": "ESCALATOR_5",
+        "image": ""
+    },
+    {
+        "layer_name": "Layer_37",
+        "display_name": "ESCALATOR_6",
+        "image": ""
+    },
+    {
+        "layer_name": "Layer_36",
+        "display_name": "ESCALATOR_7",
+        "image": ""
+    },
+    {
+        "layer_name": "Layer_35",
+        "display_name": "ESCALATOR_8",
+        "image": ""
+    },
+    {
+        "layer_name": "Layer_62",
+        "display_name": "ESCALATOR_9",
+        "image": ""
+    },
+    {
+        "layer_name": "Layer_63",
+        "display_name": "ESCALATOR_10",
+        "image": ""
+    },
+    {
+        "layer_name": "Layer_64",
+        "display_name": "ESCALATOR_11",
+        "image": ""
+    },
+    {
+        "layer_name": "Layer_67",
+        "display_name": "ESCALATOR_12",
+        "image": ""
+    },
+    {
+        "layer_name": "Layer_65",
+        "display_name": "ESCALATOR_13",
+        "image": ""
+    },
+    {
+        "layer_name": "Layer_68",
+        "display_name": "ESCALATOR_14",
+        "image": ""
+    },
+    {
+        "layer_name": "Layer_69",
+        "display_name": "ESCALATOR_15",
+        "image": ""
+    },
+    {
+        "layer_name": "Layer_76",
+        "display_name": "ESCALATOR_4",
+        "image": ""
+    },
+    {
+        "layer_name": "Layer_43",
+        "display_name": "ELEVATOR_1",
+        "image": ""
+    },
+    {
+        "layer_name": "Layer_44",
+        "display_name": "ELEVATOR_2",
+        "image": ""
+    },
+    {
+        "layer_name": "Layer_60",
+        "display_name": "ELEVATOR_3",
+        "image": ""
+    },
+    {
+        "layer_name": "Layer_58",
+        "display_name": "ELEVATOR_4",
+        "image": ""
+    },
+    {
+        "layer_name": "Layer_56",
+        "display_name": "ELEVATOR_5",
+        "image": ""
+    },
+    {
+        "layer_name": "Layer_54",
+        "display_name": "ELEVATOR_6",
+        "image": ""
+    },
+    {
+        "layer_name": "Layer_46",
+        "display_name": "ELEVATOR_7",
+        "image": ""
+    },
+    {
+        "layer_name": "Layer_45",
+        "display_name": "ELEVATOR_8",
+        "image": ""
+    },
+    {
+        "layer_name": "Layer_47",
+        "display_name": "ELEVATOR_9",
+        "image": ""
+    },
+    {
+        "layer_name": "Layer_48",
+        "display_name": "ELEVATOR_10",
+        "image": ""
+    },
+    {
+        "layer_name": "Layer_30",
+        "display_name": "ELEVATOR_11",
+        "image": ""
+    },
+    {
+        "layer_name": "Layer_31",
+        "display_name": "ELEVATOR_12",
+        "image": ""
+    },
+    {
+        "layer_name": "Layer_29",
+        "display_name": "ELEVATOR_13",
+        "image": ""
+    },
+    {
+        "layer_name": "Layer_32",
+        "display_name": "ELEVATOR_14",
+        "image": ""
+    },
+    {
+        "layer_name": "Layer_25",
+        "display_name": "ELEVATOR_15",
+        "image": ""
+    },
+    {
+        "layer_name": "Layer_24",
+        "display_name": "ELEVATOR_16",
+        "image": ""
+    },
+    {
+        "layer_name": "Layer_23",
+        "display_name": "ELEVATOR_17",
+        "image": ""
+    },
+    {
+        "layer_name": "Layer_22",
+        "display_name": "ELEVATOR_18",
+        "image": ""
+    },
+    {
+        "layer_name": "Layer_21",
+        "display_name": "ELEVATOR_19",
+        "image": ""
+    },
+    {
+        "layer_name": "Layer_26",
+        "display_name": "ELEVATOR_20",
+        "image": ""
+    },
+    {
+        "layer_name": "Layer_27",
+        "display_name": "ELEVATOR_21",
+        "image": ""
+    },
+    {
+        "layer_name": "Layer_85",
+        "display_name": "ELEVATOR_22",
+        "image": ""
+    },
+    {
+        "layer_name": "Layer_84",
+        "display_name": "ELEVATOR_23",
+        "image": ""
+    },
+    {
+        "layer_name": "Layer_86",
+        "display_name": "ELEVATOR_24",
+        "image": ""
+    },
+    {
+        "layer_name": "Layer_87",
+        "display_name": "ELEVATOR_25",
+        "image": ""
+    },
+    {
+        "layer_name": "Layer_71",
+        "display_name": "ELEVATOR_26",
+        "image": ""
+    },
+    {
+        "layer_name": "Layer_72",
+        "display_name": "ELEVATOR_27",
+        "image": ""
+    },
+    {
+        "layer_name": "Layer_73",
+        "display_name": "ELEVATOR_28",
+        "image": ""
+    },
+    {
+        "layer_name": "Layer_74",
+        "display_name": "ELEVATOR_29",
+        "image": ""
+    },
+    {
+        "layer_name": "Layer_80",
+        "display_name": "ELEVATOR_30",
+        "image": ""
+    },
+    {
+        "layer_name": "Layer_70",
+        "display_name": "ELEVATOR_31",
+        "image": ""
+    },
+    {
+        "layer_name": "Layer_59",
+        "display_name": "RESTROOM_1",
+        "image": ""
+    },
+    {
+        "layer_name": "Layer_57",
+        "display_name": "RESTROOM_2",
+        "image": ""
+    },
+    {
+        "layer_name": "Layer_55",
+        "display_name": "RESTROOM_3",
+        "image": ""
+    },
+    {
+        "layer_name": "Layer_53",
+        "display_name": "RESTROOM_4",
+        "image": ""
+    },
+    {
+        "layer_name": "Layer_51",
+        "display_name": "RESTROOM_5",
+        "image": ""
+    },
+    {
+        "layer_name": "Layer_52",
+        "display_name": "RESTROOM_6",
+        "image": ""
+    },
+    {
+        "layer_name": "Layer_49",
+        "display_name": "RESTROOM_7",
+        "image": ""
+    },
+    {
+        "layer_name": "Layer_50",
+        "display_name": "RESTROOM_8",
+        "image": ""
+    },
+    {
+        "layer_name": "Layer_17",
+        "display_name": "RESTROOM_9",
+        "image": ""
+    },
+    {
+        "layer_name": "Layer_18",
+        "display_name": "RESTROOM_10",
+        "image": ""
+    },
+    {
+        "layer_name": "Layer_19",
+        "display_name": "RESTROOM_11",
+        "image": ""
+    },
+    {
+        "layer_name": "Layer_20",
+        "display_name": "RESTROOM_12",
+        "image": ""
+    },
+    {
+        "layer_name": "Layer_88",
+        "display_name": "RESTROOM_13",
+        "image": ""
+    },
+    {
+        "layer_name": "Layer_89",
+        "display_name": "RESTROOM_14",
+        "image": ""
+    },
+    {
+        "layer_name": "Layer_90",
+        "display_name": "RESTROOM_15",
+        "image": ""
+    },
+    {
+        "layer_name": "Layer_91",
+        "display_name": "RESTROOM_16",
+        "image": ""
+    },
+    {
+        "layer_name": "Layer_92",
+        "display_name": "RESTROOM_17",
+        "image": ""
+    },
+    {
+        "layer_name": "Layer_93",
+        "display_name": "RESTROOM_18",
+        "image": ""
+    },
+    {
+        "layer_name": "Layer_94",
+        "display_name": "RESTROOM_19",
+        "image": ""
+    },
+    {
+        "layer_name": "Layer_95",
+        "display_name": "RESTROOM_20",
+        "image": ""
+    },
+    {
+        "layer_name": "Layer_96",
+        "display_name": "RESTROOM_21",
+        "image": ""
+    },
+    {
+        "layer_name": "Layer_97",
+        "display_name": "RESTROOM_22",
+        "image": ""
+    },
+    {
+        "layer_name": "Layer_77",
+        "display_name": "RESTROOM_23",
+        "image": ""
+    },
+    {
+        "layer_name": "Layer_78",
+        "display_name": "RESTROOM_24",
+        "image": ""
+    },
+    {
+        "layer_name": "Layer_79",
+        "display_name": "RESTROOM_25",
+        "image": ""
+    },
+    {
+        "layer_name": "Layer_81",
+        "display_name": "RESTROOM_26",
+        "image": ""
+    },
+    {
+        "layer_name": "Layer_66",
+        "display_name": "RESTROOM_27",
+        "image": ""
+    },
+    {
+        "layer_name": "Layer_82",
+        "display_name": "RESTROOM_28",
+        "image": ""
+    },
+    {
+        "layer_name": "Layer_83",
+        "display_name": "RESTROOM_29",
+        "image": ""
+    },
+    {
+        "layer_name": "Layer_75",
+        "display_name": "RESTROOM_30",
+        "image": ""
+    },
+    {
+        "layer_name": "Layer_35",
+        "display_name": "STAFF SCREENING_1",
+        "image": ""
+    },
+    {
+        "layer_name": "Layer_12",
+        "display_name": "STAFF SCREENING_2",
+        "image": ""
+    },
+    {
+        "layer_name": "Layer_11",
+        "display_name": "STAFF SCREENING_3",
+        "image": ""
+    },
+    {
+        "layer_name": "Layer_13",
+        "display_name": "STAFF SCREENING_4",
+        "image": ""
+    },
+    {
+        "layer_name": "Layer_7",
+        "display_name": "COFFEE SHOP_1",
+        "image": ""
+    },
+    {
+        "layer_name": "Layer_15",
+        "display_name": "MALE PASS_1",
+        "image": ""
+    },
+    {
+        "layer_name": "Layer_16",
+        "display_name": "FEMALE PASS_1",
+        "image": ""
+    },
+    {
+        "layer_name": "Layer_14",
+        "display_name": "HOSPITAL_1",
+        "image": ""
+    },
+    {
+        "layer_name": "Layer_61",
+        "display_name": "HOSPITAL_2",
+        "image": ""
+    },
+    {
+        "layer_name": "Layer_33",
+        "display_name": "IMMIGRATION_1",
+        "image": ""
+    },
+    {
+        "layer_name": "Layer_34",
+        "display_name": "IMMIGRATION_2",
+        "image": ""
+    },
+    {
+        "layer_name": "Layer_10",
+        "display_name": "CUSTOM_1",
+        "image": ""
+    },
+    {
+        "layer_name": "Layer_9",
+        "display_name": "CUSTOM_2",
+        "image": ""
+    },
+    {
+        "layer_name": "Layer_28",
+        "display_name": "SHOP_1",
+        "image": ""
+    },
+    {
+        "layer_name": "Layer_8",
+        "display_name": "SHOP_2",
+        "image": ""
+    }
+    
+]
